@@ -1,0 +1,91 @@
+/*
+Icon classes can be used entirely standalone. They are named after their original file names.
+
+```html
+<i class="icon-home"></i>
+```
+*/
+.act-advance {
+  background-image: url(act.png);
+  background-position: -82px -168px;
+  width: 66px;
+  height: 64px;
+}
+.act-crown {
+  background-image: url(act.png);
+  background-position: 0px 0px;
+  width: 76px;
+  height: 76px;
+}
+.act-down {
+  background-image: url(act.png);
+  background-position: -282px -194px;
+  width: 32px;
+  height: 20px;
+}
+.act-shu-suc {
+  background-image: url(act.png);
+  background-position: -184px -82px;
+  width: 72px;
+  height: 70px;
+}
+.act-shu-top {
+  background-image: url(act.png);
+  background-position: 0px -86px;
+  width: 88px;
+  height: 72px;
+}
+.act-shu {
+  background-image: url(act.png);
+  background-position: -282px 0px;
+  width: 74px;
+  height: 58px;
+}
+.act-top {
+  background-image: url(act.png);
+  background-position: -282px -136px;
+  width: 48px;
+  height: 48px;
+}
+.act-up {
+  background-image: url(act.png);
+  background-position: -324px -194px;
+  width: 32px;
+  height: 20px;
+}
+.act-wei-suc {
+  background-image: url(act.png);
+  background-position: -98px -86px;
+  width: 72px;
+  height: 70px;
+}
+.act-wei-top {
+  background-image: url(act.png);
+  background-position: -184px 0px;
+  width: 88px;
+  height: 72px;
+}
+.act-wei {
+  background-image: url(act.png);
+  background-position: -282px -68px;
+  width: 74px;
+  height: 58px;
+}
+.act-wu-suc {
+  background-image: url(act.png);
+  background-position: 0px -168px;
+  width: 72px;
+  height: 69px;
+}
+.act-wu-top {
+  background-image: url(act.png);
+  background-position: -86px 0px;
+  width: 88px;
+  height: 72px;
+}
+.act-wu {
+  background-image: url(act.png);
+  background-position: -158px -168px;
+  width: 74px;
+  height: 58px;
+}
